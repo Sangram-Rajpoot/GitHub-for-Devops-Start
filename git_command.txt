@@ -1,0 +1,47 @@
+ Id CommandLine
+  -- -----------
+   1 try  . "c:\Users\rajpu\AppData\Local\Programs\Microsoft V... 
+   2 node -v
+   3 Ctrl + `...
+   4 node script.js
+   5 ls
+   6 ls -l
+   7 dir
+   8 dir /a
+   9 cls
+  10 rm script.js
+  11 dir
+  12 dir script.js
+  13 cls
+  14 node script.js
+  15 cls
+  16 git init
+  17 dir /a
+  18 dir -a
+  19 cls
+  20 git init
+  21 ls -a
+  22 cls
+  23 git status
+  24 node testing.js
+  25 git status
+  26 git add testing.js
+  27 git status
+  28 git rm --cached
+  29 git rm --cached testing.js
+  30 dir
+  31 rm testing.js
+  32 git restore testing.js
+  33 cls
+  34 node test.js
+  35 git init
+  36 git add test.js
+  37 git status
+  38 git add .
+  39 git commit -m "added the file in vcs"
+  40 git status
+  41 rm test.js
+  42 git status
+  43 git restore test.js
+  44 git history
+  45 git --help
