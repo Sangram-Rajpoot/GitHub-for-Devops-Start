@@ -44,4 +44,4 @@
   42 git status
   43 git restore test.js
   44 git history
-  45 git --help
+  
