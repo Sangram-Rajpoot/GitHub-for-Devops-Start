@@ -7,3 +7,5 @@ this is another line by prshant
 
 the new work by prashant tolearn git conflict
 
+hello from cloud nexux sangram pretty code conflict i have to resolve
+------------------------------------------
